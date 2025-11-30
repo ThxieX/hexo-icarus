@@ -90,7 +90,7 @@ theme: hexo-theme-icarus
 # gitee repository: git@gitee.com:thank037/thank037.git
 deploy:
   type: git
-  repository: git@github.com:thank037/thank037.github.io.git
+  repository: git@github.com:ThxieX/thxiex.github.io.git
   branch: master
 
 live2d:
